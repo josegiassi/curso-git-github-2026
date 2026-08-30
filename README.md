@@ -7,3 +7,7 @@ vamos fazer gitflow e visual studio code
 confira tudo la na casa do cara lá,, segue o link
 
 link teste
+
+alem do nosso ytb, se ligue no nosso site e não sei oq isso é um teste
+
+basicamente . . .
